@@ -28,8 +28,8 @@ Since this script is written for **AutoHotkey v2**, download AHK from the offici
 
 1. Double-click `CenterWindow.ahk` to start the script.
 2. Use the following hotkeys:
-   * `Win + C` - Centers the active window on its monitor
-   * `Win + Alt + C` - Centers all visible windows on their respective monitors
+   * **`Win + C`** - Centers the active window on its monitor
+   * **`Win + Alt + C`** - Centers all visible windows on their respective monitors
 
 ### Autostart Setup
 
