@@ -4,9 +4,9 @@
 
 This AutoHotkey script centers windows on their respective monitors. It provides two key functions:
 
-Centering the Active Window: `Win + C`
+Centering the Active Window: **`Win + C`**
 
-Centering All Visible Windows: `Win + Alt + C`
+Centering All Visible Windows: **`Win + Alt + C`**
 
 This script is particularly useful for multi-monitor setups to efficiently organize your workspace.
 
